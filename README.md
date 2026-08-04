@@ -10,7 +10,7 @@
 
 ###
 
-<h5 data-importer="text" align="center">Language</h5>
+<h3 data-importer="text" align="center">Language</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h5 data-importer="text" align="center">Sosial Media</h5>
+<h3 data-importer="text" align="center">Sosial Media</h3>
 
 ###
 
