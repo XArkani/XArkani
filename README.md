@@ -37,7 +37,3 @@
 <h5 data-importer="text" align="center">Take yourself to the next level</h5>
 
 ###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/XArkani/XArkani/snake-output/snake.svg" alt="Snake animation" />
-
-###
